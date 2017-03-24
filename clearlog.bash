@@ -1,12 +1,12 @@
 #!/bin/bash
-#2nd progression to shellscript
+# 3rd progression to shellscript
 
-# Cleanup, version 2
+# Cleanup, version 3
 
 # User as root prayagKhanal
 # Look at your log file if there is any error
 
-LOG_DIR = /var/log
+$LOG_DIR =/var/log
 
 # using variable to store path
 
